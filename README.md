@@ -1,4 +1,6 @@
-# Web Audio API and React Tutorial 01
+# Web Audio API and React Tutorial 02
+
+this contains code completed up to the end of section 2
 
 <h2>If you get lost along the way, check your code against mine using <a href="https://www.diffchecker.com/diff">diff checker</a></h2>
 
